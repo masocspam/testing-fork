@@ -2,69 +2,8 @@ students:
   - name: Zainal Hasan
     githubUsername: zhanang19
     linkedinUsername: zhanang19
-  - name: Ariyandi Subekti
-    githubUsername: beksiii
-    linkedinUsername: AriyandiSubekti
-  - name: Tivani eky putra
-    githubUsername: ekycoding
-    linkedinUsername: Tivani eky putra
-  - name: Yadribullah Hul Amtsal
-    githubUsername: justyamzal
-    linkedinUsername: Yadribullah Hul Amtsal
-  - name: Nurul Burhan
-    githubUsername: MizterHan
-    linkedinUsername: nburhan
-  - name: Yosua Christopher Septianus
-    githubUsername: yosua_christopher
-    linkedinUsername: yosua_christopher
-  - name: Yasmin Ferdianie Putri
-    githubUsername: yasmin_ferdianie
-    linkedinUsername: yasmin_ferdianie
-  - name: Rizky Dharma Andika Raya
-    githubUsername: rizkydharma02
-    linkedinUsername: rizkydharma02
-  - name: Evandra Putra
-    githubUsername: evandra_put
-    linkedinUsername: evandra_put
-  - name: Levian Salas
-    githubUsername: levian_salas
-    linkedinUsername: levian_salas
-    - name: Koren Sama
-    githubUsername: koren_sama
-    linkedinUsername: koren_sama
 
-
-    Guru:
-  - name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
-  - name: Alit Sugesti
-    githubUsername: alitana
-    linkedinUsername: alitana
-    - name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
-  - name: Alit Sugesti
-    githubUsername: alitana
-    linkedinUsername: alitana
-- name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
-  - name: Alit Sugesti
-    githubUsername: alitana
-    linkedinUsername: alitana
-
-    Bukan Guru:
-  - name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
-
-    Bukan Guru:
-  - name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
-
-    Bukan Guru:
-  - name: Farida Hasan
-    githubUsername: farida_has
-    linkedinUsername: farida_has
+teacher:
+  - name: Kim Minji
+    githubUsername: bangzas
+    linkedinUsername: bangzas
